@@ -667,11 +667,13 @@ a:hover {
 
 .menu li {
 	display: inline-block;
+  font-family: "Hepta Slab", Georgia, Times, "Times New Roman", serif;
 	margin-left: 18px
 }
 
 .menu li a {
 	line-height: 40px;
+  font-family: "Hepta Slab", Georgia, Times, "Times New Roman", serif;
 	font-size: 20px;
 	-webkit-transition: color .5s;
 	-o-transition: color .5s;
