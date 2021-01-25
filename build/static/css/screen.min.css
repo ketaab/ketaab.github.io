@@ -509,8 +509,8 @@ a:hover {
 .first-nav__navcontrol {
 	display: none;
 	float: left;
-	width: 23%;
-	width: calc(25% - 40px);
+		width: 6.33333%;
+	width: calc(8.33333% - 40px);
 	margin-left: 1%;
 	margin-right: 1%;
 	margin-left: calc(20px);
