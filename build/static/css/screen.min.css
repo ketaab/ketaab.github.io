@@ -929,7 +929,7 @@ a:hover {
 }
 
 .process:hover .process__step-icon.is-active {
-	border-color: #dde4e6
+	border-color: #a51c30
 }
 
 .process:hover .process__step-icon.is-active:before {
@@ -1027,7 +1027,7 @@ a:hover {
 	margin-left: -90px;
 	text-align: center;
 	background-color: #f6e8ea;
-	border: 1px solid #dde4e6;
+	border: 1px solid #a51c30;
 	border-radius: 50%;
 	-webkit-box-shadow: 3px 4px 8px -4px #2c3e50;
 	box-shadow: 3px 4px 8px -4px #2c3e50;
@@ -1039,7 +1039,7 @@ a:hover {
 .process__step-icon:before {
 	font-size: 80px;
 	line-height: 180px;
-	color: #dde4e6;
+	color: #a51c30;
 	text-shadow: -1px -1px 0 #2c3e50, 0 -1px 0 #2c3e50, 1px -1px 0 #2c3e50, 1px 0 0 #2c3e50, 1px 1px 0 #2c3e50, 0 1px 0 #2c3e50, -1px 1px 0 #2c3e50, -1px 0 0 #2c3e50;
 	cursor: default;
 	-webkit-transition: all .5s;
