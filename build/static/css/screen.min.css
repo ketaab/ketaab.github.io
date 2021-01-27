@@ -243,16 +243,10 @@ h1 {
 	font-size: 60px;
 	font-family: Georgia, Times, "Times New Roman", serif
 }
-h1 span { 
-    background-color: #491C27; 
-}
 
 h2 {
 	font-family: Georgia, Times, "Times New Roman", serif;
 	font-size: 40px
-}
-h2 span { 
-    background-color: #491C27; 
 }
 
 h3 {
