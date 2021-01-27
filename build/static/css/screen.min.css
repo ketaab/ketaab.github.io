@@ -239,7 +239,7 @@ h6 {
 }
 
 h1 {
-	color: #ecf0f1;
+	color: #f6e8ea;
 	font-size: 60px;
 	font-family: Georgia, Times, "Times New Roman", serif
 }
@@ -406,7 +406,7 @@ a:hover {
 }
 
 .progressjs-theme-custom {
-	background-color: #ecf0f1;
+	background-color: #f6e8ea;
 	-webkit-transition: all .2s ease-out;
 	-o-transition: all .2s ease-out;
 	transition: all .2s ease-out
@@ -518,7 +518,7 @@ a:hover {
 	height: auto;
 	margin-top: 0;
 	margin-bottom: 0;
-	color: #ecf0f1;
+	color: #f6e8ea;
 	line-height: 40px;
 	text-align: right;
 	border: 0;
@@ -530,7 +530,7 @@ a:hover {
 .first-nav__navcontrol:before {
 	display: inline-block;
 	margin-right: 10px;
-	color: #ecf0f1;
+	color: #f6e8ea;
 	font-size: 20px;
 	-webkit-transition: color .5s;
 	-o-transition: color .5s;
@@ -586,7 +586,7 @@ a:hover {
 	bottom: 0;
 	left: 20px;
 	width: 80px;
-	color: #ecf0f1;
+	color: #f6e8ea;
 	font-size: 40px;
 	line-height: 80px;
 	font-family: "Open Sans", Tahoma, Verdana, Arial, sans-serif;
@@ -776,7 +776,7 @@ a:hover {
 
 .about-card__header h2,
 .about-card__header h4 {
-	color: #ecf0f1
+	color: #f6e8ea
 }
 
 .about-card__info {
@@ -1098,7 +1098,7 @@ a:hover {
 	top: -25px;
 	left: 12.5%;
 	margin-left: -27px;
-	border-bottom: 27px solid #ecf0f1;
+	border-bottom: 27px solid #f6e8ea;
 	border-left: 27px solid transparent;
 	border-right: 27px solid transparent
 }
@@ -1185,7 +1185,7 @@ a:hover {
 	height: 100%;
 	text-align: center;
 	white-space: nowrap;
-	background-color: #ecf0f1;
+	background-color: #f6e8ea;
 	background-color: rgba(236, 240, 241, .9);
 	visibility: hidden;
 	opacity: 0;
@@ -1324,7 +1324,7 @@ a:hover {
 
 .contact-card__header h2,
 .contact-card__header h4 {
-	color: #ecf0f1
+	color: #f6e8ea
 }
 
 .contact-info {
@@ -1420,7 +1420,7 @@ a:hover {
 .contact-info__social li a {
 	display: inline-block;
 	width: 40px;
-	color: #ecf0f1;
+	color: #f6e8ea;
 	font-size: 0;
 	cursor: pointer;
 	border: 0
@@ -1432,7 +1432,7 @@ a:hover {
 	text-align: center;
 	font-size: 25px;
 	line-height: 50px;
-	color: #ecf0f1
+	color: #f6e8ea
 }
 
 .contact-info__social li a:hover:before {
@@ -1483,7 +1483,7 @@ a:hover {
 	z-index: 100;
 	width: 100%;
 	background-color: #491C27;
-	color: #ecf0f1;
+	color: #f6e8ea;
 	-webkit-box-shadow: 0 -2px 2px -1px #2c3e50;
 	box-shadow: 0 -2px 2px -1px #2c3e50
 }
@@ -1500,8 +1500,8 @@ a:hover {
 }
 
 .main-footer a {
-	color: #ecf0f1;
-	border-color: #ecf0f1;
+	color: #f6e8ea;
+	border-color: #f6e8ea;
 	-webkit-transition: color .5s;
 	-o-transition: color .5s;
 	transition: color .5s
@@ -1563,7 +1563,7 @@ a:hover {
 	display: block;
 	font-size: 60px;
 	line-height: 40px;
-	color: #ecf0f1;
+	color: #f6e8ea;
 	-webkit-transition: color .5s;
 	-o-transition: color .5s;
 	transition: color .5s
