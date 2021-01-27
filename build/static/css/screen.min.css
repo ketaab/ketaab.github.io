@@ -147,7 +147,7 @@ html,
 body {
 	width: 100%;
 	height: 100%;
-	color: #2c3e50;
+	color: #22181c;
 	font-family: "Open Sans", Tahoma, Verdana, Arial, sans-serif;
 	line-height: 1.2
 }
@@ -271,12 +271,12 @@ li p {
 }
 
 a {
-	color: #2c3e50;
+	color: #22181C;
 	font-family: "Open Sans", Tahoma, Verdana, Arial, sans-serif;
 	font-size: 18px;
 	text-decoration: none;
 	outline-style: none;
-	border-bottom: 1px dashed #2c3e50
+	border-bottom: 1px dashed #22181C
 }
 
 a:hover {
@@ -502,7 +502,7 @@ a:hover {
 .first-nav__languages a:hover,
 .first-nav__links a.is-selected,
 .first-nav__links a:hover {
-	color: #2c3e50;
+	color: #22181C;
 	border: 0
 }
 
@@ -544,7 +544,7 @@ a:hover {
 
 .first-nav__navcontrol:hover,
 .first-nav__navcontrol:hover:before {
-	color: #2c3e50
+	color: #22181C
 }
 
 .second-nav {
@@ -555,8 +555,8 @@ a:hover {
 	margin: 0 0;
 	clear: both;
 	margin-top: 40px;
-	-webkit-box-shadow: inset 0 1px 2px -1px #2c3e50, 0 1px 2px -1px #2c3e50;
-	box-shadow: inset 0 1px 2px -1px #2c3e50, 0 1px 2px -1px #2c3e50;
+	-webkit-box-shadow: inset 0 1px 2px -1px #22181c, 0 1px 2px -1px #22181c;
+	box-shadow: inset 0 1px 2px -1px #22181c, 0 1px 2px -1px #22181c;
 	-webkit-transform: translateY(0);
 	-ms-transform: translateY(0);
 	transform: translateY(0);
@@ -595,8 +595,8 @@ a:hover {
 	text-align: center;
 	background-color: #491C27;
 	border: 0;
-	-webkit-box-shadow: inset 0 1px 2px -1px #2c3e50;
-	box-shadow: inset 0 1px 2px -1px #2c3e50
+	-webkit-box-shadow: inset 0 1px 2px -1px #22181c;
+	box-shadow: inset 0 1px 2px -1px #22181c
 }
 
 .second-nav__logo:after {
@@ -625,8 +625,8 @@ a:hover {
 	width: 50px;
 	height: 5px;
 	background-color: transparent;
-	-webkit-box-shadow: 0 1px 2px -1px #2c3e50;
-	box-shadow: 0 1px 2px -1px #2c3e50;
+	-webkit-box-shadow: 0 1px 2px -1px #22181c;
+	box-shadow: 0 1px 2px -1px #22181c;
 	-webkit-transform: rotate(-37deg);
 	-ms-transform: rotate(-37deg);
 	transform: rotate(-37deg)
@@ -640,8 +640,8 @@ a:hover {
 	width: 50px;
 	height: 5px;
 	background-color: transparent;
-	-webkit-box-shadow: 0 1px 2px -1px #2c3e50;
-	box-shadow: 0 1px 2px -1px #2c3e50;
+	-webkit-box-shadow: 0 1px 2px -1px #22181c;
+	box-shadow: 0 1px 2px -1px #22181c;
 	-webkit-transform: rotate(37deg);
 	-ms-transform: rotate(37deg);
 	transform: rotate(37deg)
@@ -703,8 +703,8 @@ a:hover {
 	width: 100%;
 	height: 0;
 	clear: both;
-	-webkit-box-shadow: 0 0 2px 1px #2c3e50;
-	box-shadow: 0 0 2px 1px #2c3e50
+	-webkit-box-shadow: 0 0 2px 1px #22181c;
+	box-shadow: 0 0 2px 1px #22181c
 }
 
 .home-section__bg {
@@ -739,13 +739,13 @@ a:hover {
 .home-section__header h1 {
 	margin-bottom: 10px;
 	font-size: 100px;
-	text-shadow: 1px 1px 1px #2c3e50
+	text-shadow: 1px 1px 1px #22181c
 }
 
 .home-section__header h2 {
 	color: #ecf0f1;
 	font-family: 'Open Sans Condensed';
-	text-shadow: 1px 1px 2px #2c3e50
+	text-shadow: 1px 1px 2px #22181c
 }
 
 .about-section {
@@ -754,8 +754,8 @@ a:hover {
 }
 
 .about-card {
-	-webkit-box-shadow: 2px 2px 4px -2px #2c3e50;
-	box-shadow: 2px 2px 4px -2px #2c3e50;
+	-webkit-box-shadow: 2px 2px 4px -2px #22181c;
+	box-shadow: 2px 2px 4px -2px #22181c;
 	float: left;
 	width: 73%;
 	width: calc(75% - 40px);
@@ -933,7 +933,7 @@ a:hover {
 }
 
 .process:hover .process__step-icon.is-active:before {
-	text-shadow: -1px -1px 0 #2c3e50, 0 -1px 0 #2c3e50, 1px -1px 0 #2c3e50, 1px 0 0 #2c3e50, 1px 1px 0 #2c3e50, 0 1px 0 #2c3e50, -1px 1px 0 #2c3e50, -1px 0 0 #2c3e50
+	text-shadow: -1px -1px 0 #22181c, 0 -1px 0 #22181c, 1px -1px 0 #22181c, 1px 0 0 #22181c, 1px 1px 0 #22181c, 0 1px 0 #22181c, -1px 1px 0 #22181c, -1px 0 0 #22181c
 }
 
 .process:hover .process__step-info {
@@ -1029,8 +1029,8 @@ a:hover {
 	background-color: #491c27;
 	border: 1px solid #a51c30;
 	border-radius: 50%;
-	-webkit-box-shadow: 3px 4px 8px -4px #2c3e50;
-	box-shadow: 3px 4px 8px -4px #2c3e50;
+	-webkit-box-shadow: 3px 4px 8px -4px #22181c;
+	box-shadow: 3px 4px 8px -4px #22181c;
 	-webkit-transition: all .5s;
 	-o-transition: all .5s;
 	transition: all .5s
@@ -1040,7 +1040,7 @@ a:hover {
 	font-size: 80px;
 	line-height: 180px;
 	color: #a51c30;
-	text-shadow: -1px -1px 0 #2c3e50, 0 -1px 0 #2c3e50, 1px -1px 0 #2c3e50, 1px 0 0 #2c3e50, 1px 1px 0 #2c3e50, 0 1px 0 #2c3e50, -1px 1px 0 #2c3e50, -1px 0 0 #2c3e50;
+	text-shadow: -1px -1px 0 #22181c, 0 -1px 0 #22181c, 1px -1px 0 #22181c, 1px 0 0 #22181c, 1px 1px 0 #22181c, 0 1px 0 #22181c, -1px 1px 0 #22181c, -1px 0 0 #22181c;
 	cursor: default;
 	-webkit-transition: all .5s;
 	-o-transition: all .5s;
@@ -1066,8 +1066,8 @@ a:hover {
 	padding: 10px;
 	background-color: #f6e8ea;
 	border-top: 10px solid #491C27;
-	-webkit-box-shadow: 2px 2px 4px -2px #2c3e50;
-	box-shadow: 2px 2px 4px -2px #2c3e50
+	-webkit-box-shadow: 2px 2px 4px -2px #22181c;
+	box-shadow: 2px 2px 4px -2px #22181c
 }
 
 .process__step-info_research,
@@ -1132,14 +1132,14 @@ a:hover {
 
 .projects-wrap:before {
 	top: 0;
-	-webkit-box-shadow: 0 0 2px 1px #2c3e50;
-	box-shadow: 0 0 2px 1px #2c3e50
+	-webkit-box-shadow: 0 0 2px 1px #22181c;
+	box-shadow: 0 0 2px 1px #22181c
 }
 
 .projects-wrap:after {
 	bottom: 0;
-	-webkit-box-shadow: 0 0 2px 1px #2c3e50;
-	box-shadow: 0 0 2px 1px #2c3e50
+	-webkit-box-shadow: 0 0 2px 1px #22181c;
+	box-shadow: 0 0 2px 1px #22181c
 }
 
 .projects {
@@ -1241,8 +1241,8 @@ a:hover {
 	margin-bottom: 40px;
 	padding: 40px 20px;
 	background-color: #74121d;
-	-webkit-box-shadow: 2px 2px 4px -2px #2c3e50;
-	box-shadow: 2px 2px 4px -2px #2c3e50
+	-webkit-box-shadow: 2px 2px 4px -2px #22181c;
+	box-shadow: 2px 2px 4px -2px #22181c
 }
 
 .testimonials__item img {
@@ -1303,8 +1303,8 @@ a:hover {
 	position: absolute;
 	top: -200px;
 	z-index: 50;
-	-webkit-box-shadow: 2px 2px 4px -2px #2c3e50;
-	box-shadow: 2px 2px 4px -2px #2c3e50;
+	-webkit-box-shadow: 2px 2px 4px -2px #22181c;
+	box-shadow: 2px 2px 4px -2px #22181c;
 	float: left;
 	width: 73%;
 	width: calc(75% - 40px);
@@ -1436,7 +1436,7 @@ a:hover {
 }
 
 .contact-info__social li a:hover:before {
-	color: #2c3e50
+	color: #22181c
 }
 
 #gmap {
@@ -1458,8 +1458,8 @@ a:hover {
 	display: block;
 	width: 100%;
 	height: 0;
-	-webkit-box-shadow: 0 0 2px 1px #2c3e50;
-	box-shadow: 0 0 2px 1px #2c3e50
+	-webkit-box-shadow: 0 0 2px 1px #22181c;
+	box-shadow: 0 0 2px 1px #22181c
 }
 
 #gmap .gm-style-iw * {
@@ -1484,8 +1484,8 @@ a:hover {
 	width: 100%;
 	background-color: #491C27;
 	color: #f6e8ea;
-	-webkit-box-shadow: 0 -2px 2px -1px #2c3e50;
-	box-shadow: 0 -2px 2px -1px #2c3e50
+	-webkit-box-shadow: 0 -2px 2px -1px #22181c;
+	box-shadow: 0 -2px 2px -1px #22181c
 }
 
 .main-footer:before {
@@ -1508,7 +1508,7 @@ a:hover {
 }
 
 .main-footer a:hover {
-	color: #2c3e50
+	color: #22181c
 }
 
 .main-footer__author,
@@ -1570,7 +1570,7 @@ a:hover {
 }
 
 .main-footer__gotop:hover:before {
-	color: #2c3e50
+	color: #22181c
 }
 
 @media screen and (max-width:1200px) and (min-width:800px) {
