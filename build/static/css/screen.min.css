@@ -216,17 +216,17 @@ body {
 
 ::-moz-selection {
 	color: #491C27;
-	background-color: #bdc3c7
+	background-color: #22181C
 }
 
 ::selection {
 	color: #491C27;
-	background-color: #bdc3c7
+	background-color: #22181C
 }
 
 ::-moz-selection {
 	color: #491C27;
-	background-color: #bdc3c7
+	background-color: #22181c
 }
 
 h1,
@@ -684,7 +684,7 @@ a:hover {
 
 .menu li a.is-selected,
 .menu li a:hover {
-	color: #bdc3c7;
+	color: #22181c;
 	border: 0
 }
 
@@ -798,7 +798,7 @@ a:hover {
 	margin-top: 20px;
 	padding-top: 10px;
 	font-weight: 400;
-	border-top: 1px dashed #bdc3c7
+	border-top: 1px dashed #22181c
 }
 
 .about-card__info .about-card__info-status span {
@@ -838,7 +838,7 @@ a:hover {
 .services__item:before {
 	margin-top: 30px;
 	float: left;
-	color: #bdc3c7;
+	color: #22181c;
 	font-size: 60px;
 	-webkit-transition: color .5s;
 	-o-transition: color .5s;
@@ -1108,7 +1108,7 @@ a:hover {
 }
 
 .process__step-info h3 span {
-	color: #bdc3c7
+	color: #22181c
 }
 
 .projects-wrap {
@@ -1290,7 +1290,7 @@ a:hover {
 }
 
 .testimonials__item blockquote cite span.role {
-	color: #bdc3c7;
+	color: #22181c;
 	white-space: nowrap
 }
 
@@ -1400,7 +1400,7 @@ a:hover {
 	top: 0;
 	right: 0;
 	list-style-type: none;
-	background-color: #bdc3c7
+	background-color: #22181c
 }
 
 .contact-info__social li {
@@ -1409,7 +1409,7 @@ a:hover {
 	height: 50px;
 	text-align: center;
 	overflow: hidden;
-	background-color: #bdc3c7;
+	background-color: #22181c;
 	border-top: 1px solid #ecf0f1
 }
 
@@ -1670,7 +1670,8 @@ a:hover {
 		margin: 0 9px;
 		display: block;
 		margin: auto;
-		border-bottom: 1px dashed #bdc3c7
+		border-bottom: 1px dashed #22181c
+      
 	}
 	.menu li a {
 		font-size: 18px;
