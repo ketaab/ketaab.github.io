@@ -148,7 +148,7 @@ body {
 	width: 100%;
 	height: 100%;
 	color: #22181c;
-	font-family: "Hepta Slab", Georgia, Times, "Times New Roman", serif;
+	font-family: "Open Sans",Tahoma,Verdana,Arial,sans-serif;
 	line-height: 1.2
 }
 
@@ -1026,7 +1026,7 @@ a:hover {
 	height: 180px;
 	margin-left: -90px;
 	text-align: center;
-	background-color: #491c27;
+	background-color: #74121d;
 	border: 1px solid #a51c30;
 	border-radius: 50%;
 	-webkit-box-shadow: 3px 4px 8px -4px #22181c;
@@ -1039,7 +1039,7 @@ a:hover {
 .process__step-icon:before {
 	font-size: 80px;
 	line-height: 180px;
-	color: #f6e8ea;
+	color: #491c27;
 	text-shadow: -1px -1px 0 #22181c, 0 -1px 0 #22181c, 1px -1px 0 #22181c, 1px 0 0 #22181c, 1px 1px 0 #22181c, 0 1px 0 #22181c, -1px 1px 0 #22181c, -1px 0 0 #22181c;
 	cursor: default;
 	-webkit-transition: all .5s;
