@@ -1039,7 +1039,7 @@ a:hover {
 .process__step-icon:before {
 	font-size: 80px;
 	line-height: 180px;
-	color: #491c27;
+	color: #f6e8ea;
 	text-shadow: -1px -1px 0 #22181c, 0 -1px 0 #22181c, 1px -1px 0 #22181c, 1px 0 0 #22181c, 1px 1px 0 #22181c, 0 1px 0 #22181c, -1px 1px 0 #22181c, -1px 0 0 #22181c;
 	cursor: default;
 	-webkit-transition: all .5s;
