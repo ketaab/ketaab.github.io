@@ -215,18 +215,18 @@ body {
 }
 
 ::-moz-selection {
-	color: #f6e8ea;
-	background-color: #74121d
+	color: #491C27;
+	background-color: #F6E8EA
 }
 
 ::selection {
-	color: #f6e8ea;
-	background-color: #74121d
+	color: #491C27;
+	background-color: #F6E8EA
 }
 
 ::-moz-selection {
-	color: #f6e8ea;
-	background-color: #74121d
+	color: #491C27;
+	background-color: #F6E8EA
 }
 
 h1,
