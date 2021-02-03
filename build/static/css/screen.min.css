@@ -1482,7 +1482,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 	position: relative;
 	z-index: 100;
 	width: 100%;
-	background-color: #491C27;
+	background-color: #f6e8ea;
 	color: #f6e8ea;
 	-webkit-box-shadow: 0 -2px 2px -1px #22181c;
 	box-shadow: 0 -2px 2px -1px #22181c
@@ -1501,14 +1501,14 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 
 .main-footer a {
 	color: #f6e8ea;
-	border-color: #f6e8ea;
+	border-color: #491c27;
 	-webkit-transition: color .5s;
 	-o-transition: color .5s;
 	transition: color .5s
 }
 
 .main-footer a:hover {
-	color: #22181c
+	color: #a7333f
 }
 
 .main-footer__author,
@@ -1570,7 +1570,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 }
 
 .main-footer__gotop:hover:before {
-	color: #22181c
+	color: #a7333f
 }
 
 @media screen and (max-width:1200px) and (min-width:800px) {
