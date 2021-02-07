@@ -271,7 +271,7 @@ li p {
 }
 
 a {
-	color: #192635;
+	color: #dbe7e8;
 	font-family: "Open Sans", Tahoma, Verdana, Arial, sans-serif;
 	font-size: 16px;
 	text-decoration: none;
@@ -844,7 +844,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 }
 
 .services__item:hover:before {
-	color: #192635
+	color: #7091a3
 }
 
 .advantages {
