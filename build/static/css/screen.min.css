@@ -1507,7 +1507,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 }
 
 .main-footer a:hover {
-	color: #a7333f
+	color: #e57010
 }
 
 .main-footer__author,
@@ -1569,7 +1569,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 }
 
 .main-footer__gotop:hover:before {
-	color: #74121D
+	color: #e57010
 }
 
 @media screen and (max-width:1200px) and (min-width:800px) {
