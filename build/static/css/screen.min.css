@@ -276,7 +276,7 @@ a {
 	font-size: 18px;
 	text-decoration: none;
 	outline-style: none;
-	border-bottom: 1px dashed #22181C
+	border-bottom: 1px dashed #e57010
 }
 
 a:hover {
@@ -406,7 +406,7 @@ a:hover {
 }
 
 .progressjs-theme-custom {
-	background-color: #e57010;
+	background-color: #FFFFFF;
 	-webkit-transition: all .2s ease-out;
 	-o-transition: all .2s ease-out;
 	transition: all .2s ease-out
