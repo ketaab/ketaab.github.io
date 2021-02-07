@@ -273,10 +273,10 @@ li p {
 a {
 	color: #192635;
 	font-family: "Open Sans", Tahoma, Verdana, Arial, sans-serif;
-	font-size: 18px;
+	font-size: 16px;
 	text-decoration: none;
 	outline-style: none;
-	border-bottom: 1px dashed #e57010
+	border-bottom: 1px dashed #192635
 }
 
 a:hover {
@@ -452,7 +452,7 @@ a:hover {
 	left: 0;
 	height: 40px;
 	overflow: hidden;
-	background-color: #e57010;
+	background-color: #192635;
 	width: 100%;
 	margin: 0 0;
 	clear: both
@@ -488,7 +488,7 @@ a:hover {
 
 .first-nav__languages a,
 .first-nav__links a {
-	color: #192635;
+	color: #FFFFFF;
 	font-family: Georgia, Times, "Times New Roman", serif;
 	font-style: italic;
 	line-height: 40px;
