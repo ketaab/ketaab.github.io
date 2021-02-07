@@ -741,7 +741,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 }
 
 .home-section__header h2 {
-	color: #f6e8ea;
+	color: #FFFFFF;
 	font-family: 'Open Sans Condensed';
 	text-shadow: 1px 1px 2px #22181c
 }
@@ -774,12 +774,12 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 
 .about-card__header h2,
 .about-card__header h4 {
-	color: #f6e8ea
+	color: #dbe7e8
 }
 
 .about-card__info {
 	padding: 20px;
-	background-color: #f6e8ea
+	background-color: #dbe7e8
 }
 
 .about-card__info p {
@@ -1096,7 +1096,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 	top: -25px;
 	left: 12.5%;
 	margin-left: -27px;
-	border-bottom: 27px solid #f6e8ea;
+	border-bottom: 27px solid #dbe7e8;
 	border-left: 27px solid transparent;
 	border-right: 27px solid transparent
 }
@@ -1183,7 +1183,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 	height: 100%;
 	text-align: center;
 	white-space: nowrap;
-	background-color: #f6e8ea;
+	background-color: #dbe7e8;
 	background-color: rgba(236, 240, 241, .9);
 	visibility: hidden;
 	opacity: 0;
@@ -1322,14 +1322,14 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 
 .contact-card__header h2,
 .contact-card__header h4 {
-	color: #f6e8ea
+	color: #dbe7e8
 }
 
 .contact-info {
 	position: relative;
 	min-height: 300px;
 	padding: 20px 60px 20px 20px;
-	background-color: #f6e8ea;
+	background-color: #dbe7e8;
 	overflow: hidden;
 	white-space: nowrap
 }
@@ -1398,7 +1398,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 	top: 0;
 	right: 0;
 	list-style-type: none;
-	background-color: #f6e8ea
+	background-color: #dbe7e8
 }
 
 .contact-info__social li {
@@ -1408,7 +1408,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 	text-align: center;
 	overflow: hidden;
 	background-color: #491c27;
-	border-top: 1px solid #f6e8ea
+	border-top: 1px solid #dbe7e8
 }
 
 .contact-info__social li:hover {
@@ -1418,7 +1418,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 .contact-info__social li a {
 	display: inline-block;
 	width: 40px;
-	color: #f6e8ea;
+	color: #dbe7e8;
 	font-size: 0;
 	cursor: pointer;
 	border: 0
@@ -1430,7 +1430,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 	text-align: center;
 	font-size: 25px;
 	line-height: 50px;
-	color: #f6e8ea
+	color: #dbe7e8
 }
 
 .contact-info__social li a:hover:before {
@@ -1482,7 +1482,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 	z-index: 100;
 	width: 100%;
 	background-color: #22181c;
-	color: #f6e8ea;
+	color: #dbe7e8;
 	-webkit-box-shadow: 0 -2px 2px -1px #22181c;
 	box-shadow: 0 -2px 2px -1px #22181c
 }
@@ -1499,7 +1499,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 }
 
 .main-footer a {
-	color: #f6e8ea;
+	color: #dbe7e8;
 	border-color: #22181c;
 	-webkit-transition: color .5s;
 	-o-transition: color .5s;
@@ -1562,7 +1562,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 	display: block;
 	font-size: 60px;
 	line-height: 40px;
-	color: #f6e8ea;
+	color: #dbe7e8;
 	-webkit-transition: color .5s;
 	-o-transition: color .5s;
 	transition: color .5s
