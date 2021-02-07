@@ -271,7 +271,7 @@ li p {
 }
 
 a {
-	color: #22181C;
+	color: #192635;
 	font-family: "Open Sans", Tahoma, Verdana, Arial, sans-serif;
 	font-size: 18px;
 	text-decoration: none;
@@ -452,7 +452,7 @@ a:hover {
 	left: 0;
 	height: 40px;
 	overflow: hidden;
-	background-color: #192635;
+	background-color: #e57010;
 	width: 100%;
 	margin: 0 0;
 	clear: both
@@ -518,7 +518,7 @@ a:hover {
 	height: auto;
 	margin-top: 0;
 	margin-bottom: 0;
-	color: #e57010;
+	color: #192635;
 	line-height: 40px;
 	text-align: right;
 	border: 0;
@@ -550,7 +550,7 @@ a:hover {
 .second-nav {
 	position: relative;
 	min-height: 80px;
-	background-color: #f6e8ea;
+	background-color: #192635;
 	width: 100%;
 	margin: 0 0;
 	clear: both;
@@ -586,7 +586,7 @@ a:hover {
 	bottom: 0;
 	left: 20px;
 	width: 80px;
-	color: #f6e8ea;
+	color: #FFFFFF;
 	font-size: 40px;
 	line-height: 80px;
 	font-family: "Open Sans", Tahoma, Verdana, Arial, sans-serif;
