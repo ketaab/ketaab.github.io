@@ -530,7 +530,7 @@ a:hover {
 .first-nav__navcontrol:before {
 	display: inline-block;
 	margin-right: 10px;
-	color: #192635;
+	color: #e57010;
 	font-size: 20px;
 	-webkit-transition: color .5s;
 	-o-transition: color .5s;
@@ -544,7 +544,7 @@ a:hover {
 
 .first-nav__navcontrol:hover,
 .first-nav__navcontrol:hover:before {
-	color: #192635
+	color: #f4a463
 }
 
 .second-nav {
