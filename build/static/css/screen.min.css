@@ -246,7 +246,9 @@ h1 {
 
 h2 {
 	font-family: Georgia, Times, "Times New Roman", serif;
-	font-size: 48px
+	font-size: 48px; 
+  color: #129635
+    
 }
 
 h3 {
