@@ -849,8 +849,8 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 
 .advantages {
 	text-align: center;
-	border-left: 10px solid #491C27;
-	border-right: 10px solid #491C27;
+	border-left: 10px solid #e57010;
+	border-right: 10px solid #e57010;
 	float: left;
 	width: 98%;
 	width: calc(100% - 40px);
@@ -890,7 +890,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 
 .advantages blockquote {
 	padding: 40px 0;
-	border-bottom: 10px solid #491C27
+	border-bottom: 10px solid #e57010
 }
 
 .advantages blockquote p,
