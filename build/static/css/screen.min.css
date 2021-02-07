@@ -492,7 +492,7 @@ a:hover {
 	font-family: Georgia, Times, "Times New Roman", serif;
 	font-style: italic;
 	line-height: 40px;
-	border-color: #192635;
+	border-color: #e57010;
 	-webkit-transition: color .5s;
 	-o-transition: color .5s;
 	transition: color .5s
@@ -518,7 +518,7 @@ a:hover {
 	height: auto;
 	margin-top: 0;
 	margin-bottom: 0;
-	color: #192635;
+	color: #e57010;
 	line-height: 40px;
 	text-align: right;
 	border: 0;
