@@ -1273,7 +1273,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 	top: -5px;
 	left: -25px;
 	font-size: 20px;
-	color: #192635
+	color: #e57010
 }
 
 .testimonials__item blockquote cite {
@@ -1284,7 +1284,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 }
 
 .testimonials__item blockquote cite span.name {
-	color: #192635
+	color: #e57010
 }
 
 .testimonials__item blockquote cite span.role {
@@ -1329,7 +1329,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 	position: relative;
 	min-height: 300px;
 	padding: 20px 60px 20px 20px;
-	background-color: #dbe7e8;
+	background-color: #e57010;
 	overflow: hidden;
 	white-space: nowrap
 }
