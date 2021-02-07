@@ -276,7 +276,7 @@ a {
 	font-size: 16px;
 	text-decoration: none;
 	outline-style: none;
-	border-bottom: 1px dashed #192635
+	border-bottom: 1px dashed #e57010
 }
 
 a:hover {
@@ -550,7 +550,7 @@ a:hover {
 .second-nav {
 	position: relative;
 	min-height: 80px;
-	background-color: #e57010;
+	background-color: #dbe7e8;
 	width: 100%;
 	margin: 0 0;
 	clear: both;
