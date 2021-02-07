@@ -1496,14 +1496,14 @@ background-position: -8px -8px, -8px -8px, -4px -4px, -4px -4px;}
 	top: -30px;
 	left: 50%;
 	margin-left: -40px;
-	border-bottom: 40px solid #e57010;
+	border-bottom: 40px solid #192635;
 	border-left: 40px solid transparent;
 	border-right: 40px solid transparent
 }
 
 .main-footer a {
 	color: #dbe7e8;
-	border-color: #e57010;
+	border-color: #192635;
 	-webkit-transition: color .5s;
 	-o-transition: color .5s;
 	transition: color .5s
