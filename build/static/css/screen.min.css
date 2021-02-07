@@ -1320,7 +1320,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 	background-color: #e57010
 }
 
-.contact-card__header h2,
+.contact-card__header h3,
 .contact-card__header h4 {
 	color: #dbe7e8
 }
