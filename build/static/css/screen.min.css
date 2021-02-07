@@ -769,7 +769,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 
 .about-card__header {
 	padding: 20px;
-	background-color: #491C27
+	background-color: #7091a3
 }
 
 .about-card__header h2,
@@ -979,12 +979,12 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 
 .process__step:hover>.process__step-icon,
 .process__step:hover>.process__step-icon.is-active {
-	border-color: #491C27
+	border-color: #7091a3
 }
 
 .process__step:hover>.process__step-icon:before,
 .process__step:hover>.process__step-icon.is-active:before {
-	text-shadow: -1px -1px 0 #491C27, 0 -1px 0 #491C27, 1px -1px 0 #491C27, 1px 0 0 #491C27, 1px 1px 0 #491C27, 0 1px 0 #491C27, -1px 1px 0 #491C27, -1px 0 0 #491C27
+	text-shadow: -1px -1px 0 #7091a3, 0 -1px 0 #7091a3, 1px -1px 0 #7091a3, 1px 0 0 #7091a3, 1px 1px 0 #7091a3, 0 1px 0 #7091a3, -1px 1px 0 #7091a3, -1px 0 0 #7091a3
 }
 
 .process__step:hover+.process__step-info {
@@ -1204,7 +1204,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 	display: inline-block;
 	width: 90%;
 	font-size: 25px;
-	color: #491C27;
+	color: #7091a3;
 	vertical-align: middle;
 	white-space: normal;
 	border-bottom: none
@@ -1273,7 +1273,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 	top: -5px;
 	left: -25px;
 	font-size: 20px;
-	color: #491C27
+	color: #192635
 }
 
 .testimonials__item blockquote cite {
@@ -1284,11 +1284,11 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 }
 
 .testimonials__item blockquote cite span.name {
-	color: #491C27
+	color: #192635
 }
 
 .testimonials__item blockquote cite span.role {
-	color: #22181c;
+	color: #536e7a;
 	white-space: nowrap
 }
 
@@ -1317,7 +1317,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 
 .contact-card__header {
 	padding: 20px;
-	background-color: #491C27
+	background-color: #7091a3
 }
 
 .contact-card__header h2,
@@ -1336,7 +1336,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 
 .contact-info__logo {
 	display: inline-block;
-	color: #491C27;
+	color: #7091a3;
 	font-size: 80px;
 	line-height: 60px;
 	letter-spacing: -5px;
@@ -1407,7 +1407,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 	height: 50px;
 	text-align: center;
 	overflow: hidden;
-	background-color: #491c27;
+	background-color: #7091a3;
 	border-top: 1px solid #dbe7e8
 }
 
