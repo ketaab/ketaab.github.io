@@ -407,7 +407,7 @@ a:hover {
 }
 
 .progressjs-theme-custom {
-	background-color: #FFFFFF;
+	background-color: #192635;
 	-webkit-transition: all .2s ease-out;
 	-o-transition: all .2s ease-out;
 	transition: all .2s ease-out
@@ -430,13 +430,13 @@ a:hover {
 	left: 50%;
 	display: block;
 	width: 200px;
-	height: 120px;
+	height: 150px;
 	margin-left: -100px;
 	margin-top: -60px;
 	text-align: center;
-	color: #192635;
-	font-size: 120px;
-	line-height: 120px;
+	color: #e57010;
+	font-size: 128px;
+	line-height: 150px;
 	font-family: "Open Sans", Tahoma, Verdana, Arial, sans-serif
 }
 
