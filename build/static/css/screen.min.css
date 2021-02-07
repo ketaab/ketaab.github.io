@@ -1329,7 +1329,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 	position: relative;
 	min-height: 300px;
 	padding: 20px 60px 20px 20px;
-	background-color: #e57010;
+	background-color: #dbe7e8;
 	overflow: hidden;
 	white-space: nowrap
 }
@@ -1418,7 +1418,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 .contact-info__social li a {
 	display: inline-block;
 	width: 40px;
-	color: #e57010;
+	color: #dbe7e8;
 	font-size: 0;
 	cursor: pointer;
 	border: 0
