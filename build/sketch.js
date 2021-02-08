@@ -6,7 +6,7 @@ let img;
 
 function preload() {
   classifier = ml5.imageClassifier('MobileNet');
-  img = loadImage('images/212740-Colorful-Bird.jpg');
+  img = loadImage('images/Yellow-chrysanthemums-Flowers-wallpapers-pictures-photos-Download-1024x768.jpg');
 }
 
 function setup() {
