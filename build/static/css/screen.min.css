@@ -1038,7 +1038,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 .process__step-icon:before {
 	font-size: 80px;
 	line-height: 180px;
-	color: #dbe7e8;
+	color: #e57010;
 	text-shadow: -1px -1px 0 #192635, 0 -1px 0 #192635, 1px -1px 0 #192635, 1px 0 0 #192635, 1px 1px 0 #192635, 0 1px 0 #192635, -1px 1px 0 #192635, -1px 0 0 #192635;
 	cursor: default;
 	-webkit-transition: all .5s;
