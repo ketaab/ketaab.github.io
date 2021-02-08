@@ -1501,7 +1501,7 @@ background-size: 28px 28px;}
 }
 
 .main-footer a {
-	color: #dbe7e8;
+	color: #e57010;
 	border-color: #192635;
 	-webkit-transition: color .5s;
 	-o-transition: color .5s;
@@ -1509,7 +1509,7 @@ background-size: 28px 28px;}
 }
 
 .main-footer a:hover {
-	color: #e57010
+	color: #f4a463
 }
 
 .main-footer__author,
@@ -1564,14 +1564,14 @@ background-size: 28px 28px;}
 	display: block;
 	font-size: 60px;
 	line-height: 40px;
-	color: #dbe7e8;
+	color: #e57010;
 	-webkit-transition: color .5s;
 	-o-transition: color .5s;
 	transition: color .5s
 }
 
 .main-footer__gotop:hover:before {
-	color: #e57010
+	color: #f4a463
 }
 
 @media screen and (max-width:1200px) and (min-width:800px) {
