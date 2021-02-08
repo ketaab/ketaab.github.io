@@ -1681,10 +1681,9 @@ background-image:  repeating-linear-gradient(0deg, #e57010, #e57010 1.2000000000
 		border-bottom: none
 	}
 	.home-section__header {
-		text-align: center
 	}
 	.home-section__header h1 {
-		font-size: 50px
+		font-size: 64px
 	}
 	.about-card {
 		float: left;
