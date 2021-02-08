@@ -1445,9 +1445,8 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 	overflow: hidden;
 background-color: #192635;
 opacity: 1;
-background-image:  linear-gradient(#e57010 5px, transparent 5px), linear-gradient(90deg, #e57010 5px, transparent 5px), linear-gradient(#e57010 2.5px, transparent 2.5px), linear-gradient(90deg, #e57010 2.5px, #192635 2.5px);
-background-size: 125px 125px, 125px 125px, 25px 25px, 25px 25px;
-background-position: -5px -5px, -5px -5px, -2.5px -2.5px, -2.5px -2.5px;}
+background-size: 24px 24px;
+background-image:  repeating-linear-gradient(0deg, #e57010, #e57010 1.2000000000000002px, #192635 1.2000000000000002px, #192635);}
 
 
 
