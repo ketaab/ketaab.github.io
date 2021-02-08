@@ -1337,12 +1337,12 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 
 .contact-info__logo {
 	display: inline-block;
-	color: #7091a3;
+	color: #192635;
 	font-size: 80px;
-	line-height: 60px;
+	line-height: 64px;
 	letter-spacing: -5px;
 	font-family: "Open Sans", Tahoma, Verdana, Arial, sans-serif;
-	font-weight: 700;
+	font-weight: 800;
 	text-align: center;
 	border: 0;
 	vertical-align: top
