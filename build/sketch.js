@@ -6,7 +6,7 @@ let img;
 
 function preload() {
   classifier = ml5.imageClassifier('MobileNet');
-  img = loadImage('images/bird1.png');
+  img = loadImage('images/t1.jpg');
 }
 
 function setup() {
